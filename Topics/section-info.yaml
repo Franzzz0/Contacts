@@ -1,0 +1,14 @@
+content:
+- Builder
+- Enumset
+- Encapsulating object creation
+- Getters and setters
+- The Map interface
+- Command
+- Factory method
+- Input streams
+- Stack
+- Lambda expressions
+- Abstract factory
+- Command-line arguments
+- Custom serialization
